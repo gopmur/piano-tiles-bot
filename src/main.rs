@@ -1,4 +1,4 @@
-mod mouse;
+mod mouse;g
 mod pixel;
 
 use std::io::{
