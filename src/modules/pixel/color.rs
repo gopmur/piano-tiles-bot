@@ -1,4 +1,4 @@
-#[derive(Default, Debug)]
+#[derive(Default, Debug, PartialEq)]
 pub struct Rgb {
     pub r: u8,
     pub g: u8,
